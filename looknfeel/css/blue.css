@@ -1,0 +1,64 @@
+body{
+	background-color: F28DB5;
+	color: #bbb;
+	margin-top: 101px;
+	
+}
+a{
+	color: black;
+}
+h2 {
+	color: black;
+}
+div#page {
+	background-color: F28DB5;
+	#border-color: #222;
+	border-color: transparent;
+	}
+div#footer {
+	color: #888;
+}
+div.caption-container {
+	color: #eee;
+}
+div.image-title {
+	font-size: 1.4em;
+    font-weight: bold;
+    margin-left: -250px;
+    margin-top: 27px;
+}
+div.image-desc {
+	line-height: 1.35em;
+    margin-left: -250px;
+    padding-top: 3px;
+    width: 187%;
+}
+div.download {
+	margin-top: 8px;
+}
+div.photo-index {
+	color: #888;
+}
+div.navigation a.prev {
+	background-image: url(prevPageArrowWhite.gif);
+}
+div.navigation a.next {
+	background-image: url(nextPageArrowWhite.gif);
+}
+div.loader {
+	background-image: url(loaderWhite.gif);
+}
+div.slideshow img {
+	border-color: #333;
+}
+ul.thumbs li.selected a.thumb {
+	background: #D66592;
+}
+div.pagination a:hover {
+	background-color: #111;
+}
+div.pagination span.current {
+	background-color: #fff;
+	border-color: #fff;
+	color: #000;
+}
