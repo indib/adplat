@@ -1,0 +1,1 @@
+06/22/2012 01:46:09 pm: Insertion Problem: Query does not return an mysql result resource: Unknown column 'password' in 'field list' 
